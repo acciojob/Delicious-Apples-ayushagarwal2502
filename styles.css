@@ -1,1 +1,9 @@
 /* your code here */
+.product {
+	display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  margin: 10px;
+  background-color: #f8f8f8;
+}
